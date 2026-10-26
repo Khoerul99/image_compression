@@ -1,14 +1,6 @@
 # Kompresi Citra Digital dengan Metode DCT (JPEG Baseline)
 
-Tugas mata kuliah **Pengolahan Citra Digital**, Teknik Informatika semester 5.
-
-Notebook ini mengimplementasikan **kompresi citra *lossy* berbasis DCT** (seperti pada standar JPEG baseline) dari nol menggunakan `numpy` dan `scipy`, lalu menganalisis pengaruh parameter *quality* terhadap ukuran file dan kualitas citra.
-
-| | |
-|---|---|
-| **Nama** | _isi nama_ |
-| **NIM** | _isi NIM_ |
-| **Kelas** | _isi kelas_ |
+**kompresi citra *lossy* berbasis DCT** (seperti pada standar JPEG baseline) dari nol menggunakan `numpy` dan `scipy`, lalu menganalisis pengaruh parameter *quality* terhadap ukuran file dan kualitas citra.
 
 ## Isi Program
 
